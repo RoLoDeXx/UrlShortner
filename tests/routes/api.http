@@ -1,0 +1,6 @@
+POST http://localhost:3000/api/url/shortern
+Content-Type: application/json
+
+{
+    "longUrl":"https://stackoverflow.com/questions/27465850/typeerror-router-use-requires-middleware-function-but-got-a-object"
+}
