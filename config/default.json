@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://url_gen:PEzHU6131appzF0X@cluster0.whhcr.mongodb.net/",
+    "baseURL": "http://localhost:3000"
+}
